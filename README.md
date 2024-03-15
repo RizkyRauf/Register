@@ -3,7 +3,7 @@
 Registrasi Tree adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk melakukan registrasi menggunakan data dari file Excel ke situs web registrasi. Aplikasi ini menggunakan Selenium untuk mengotomatisasi proses registrasi menggunakan browser web.
 
 ## Struktur Data
-
+```
 ├── Data
 │   └── daftar.xlxs
 ├── driver
@@ -14,7 +14,7 @@ Registrasi Tree adalah sebuah aplikasi sederhana yang memungkinkan pengguna untu
 │   └── register.py
 ├── main.py
 └── requirements.txt
-
+```
 Struktur data aplikasi ini terdiri dari beberapa direktori dan file:
 
 - **Data**: Direktori untuk menyimpan file Excel yang berisi data untuk proses registrasi.
